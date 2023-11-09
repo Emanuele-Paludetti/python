@@ -2,6 +2,7 @@ def prezzo_medio(tupla,prodotto,giorno):
     for nomi,giorni,prezzi in tupla:
 
 
+
 prezzi_prodotti=(
                 ("Mela","Lunedì",1.2),
                 ("Mela","Lunedì",1.1),
